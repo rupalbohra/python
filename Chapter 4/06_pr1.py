@@ -1,0 +1,9 @@
+f1 = input("Enter 1st fruit of your choice: ")
+f2 = input("Enter 2nd fruit of your choice: ")
+f3 = input("Enter 3rd fruit of your choice: ")
+f4 = input("Enter 4th fruit of your choice: ")
+f5 = input("Enter 5th fruit of your choice: ")
+f6 = input("Enter 6th fruit of your choice: ")
+f7 = input("Enter 7th fruit of your choice: ")
+myFruitList = [f1, f2, f3, f4, f5, f6, f7]
+print("The list of fruits of your choics is:", myFruitList)
