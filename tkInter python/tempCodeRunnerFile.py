@@ -1,0 +1,1 @@
+text2.geometry("50x50")
